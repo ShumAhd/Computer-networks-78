@@ -11,7 +11,7 @@
 
 Предоставить скриншоты открытых разных сайтов по одному доменному имени.<br>
 
-![HTTP_HTTPS.jpg](img/HTTP_HTTPS 1.jpg)
+![Router_3_NAT.jpg](img/HTTP_HTTPS1.jpg)
 
 Предоставить скриншот таблицы NAT трансляций с Router3.<br>
 
