@@ -10,8 +10,14 @@
 — Для компьютеров из Office 1 должны открываться разные сайты по HTTP и HTTPS из Office 2 по одному доменному имени.<br><br>
 
 Предоставить скриншоты открытых разных сайтов по одному доменному имени.<br>
+
 ![HTTP_HTTPS (1).jpg](img/HTTP_HTTPS (1).jpg)
+
 Предоставить скриншот таблицы NAT трансляций с Router3.<br>
+
 ![Router_3_NAT.jpg](img/Router_3_NAT.jpg)
+
 Предоставить скриншот таблицы маршрутизации с Router0.<br>
+
 ![Router0_route.jpg](img/Router0_route.jpg)
+
